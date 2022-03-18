@@ -161,7 +161,7 @@ w-elements==1.2.13
 w-formula-spec==3.0.1
 w-xunitparser==1.3.3-3
 wack-client-py==0.8.0
-waitress==1.4.3
+waitress==2.1.1
 wcontent-frugal==2.128.0
 webapp2==2.5.2
 websocket-client==0.11.0
