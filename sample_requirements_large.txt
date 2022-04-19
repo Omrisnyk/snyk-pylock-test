@@ -12,7 +12,7 @@ Pillow==2.9.0
 PyCAPTCHA==0.4.1
 PyHamcrest==1.8.1
 PyJWT==1.1.0
-PyPDF2==1.24
+PyPDF2==1.27.5
 PyYAML==3.10
 Pygments==2.4.2
 SQLAlchemy==0.8.1
