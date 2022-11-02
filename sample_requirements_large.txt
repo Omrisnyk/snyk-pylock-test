@@ -89,7 +89,7 @@ linecache2==1.0.0
 linking-client==1.0.5
 linking-frugal==11.8.0
 logilab-common==1.5.2
-lxml==2.3.5
+lxml==4.9.1
 mailer==0.3.2
 messaging-sdk==3.3.6
 mock==1.0.1
@@ -153,7 +153,7 @@ unittest2==1.1.0
 universal-analytics-python==0.2.4
 uritemplate==0.6
 uritemplate.py==0.3.0
-urllib3==1.22
+urllib3==1.26.5
 vessel==4.6.4
 w-annotation==3.11.13
 w-binder-manager==1.0.44
@@ -164,7 +164,7 @@ wack-client-py==0.8.0
 waitress==1.4.3
 wcontent-frugal==2.128.0
 webapp2==2.5.2
-websocket-client==0.11.0
+websocket-client==0.33.0
 wf-annotation-services==1.1.14
 wf-bam-services==0.0.14
 wf-books==0.1.131
@@ -182,7 +182,7 @@ wf-section16==1.0.23
 wf-viewer-services==7.24.0
 wf-voluptuous==0.8.4-1
 wfml==1.22.0
-wheel==0.23.0
+wheel==0.38.0
 workload==1.1.1
 workspaces-frugal==13.0.7
 wrapt==1.11.2
