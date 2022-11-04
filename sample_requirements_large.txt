@@ -8,7 +8,7 @@ Jinja2==2.6
 Logbook==0.9.1
 Markdown==2.6.8
 MarkupSafe==0.15
-Pillow==2.9.0
+Pillow==9.0.1
 PyCAPTCHA==0.4.1
 PyHamcrest==1.8.1
 PyJWT==1.1.0
@@ -63,7 +63,7 @@ gae-archive==0.12.1
 gae-chaos==0.1.0
 gae-link-libs==1.7.0
 gaepytz==2011h
-gevent==1.1.2
+gevent==1.2a1
 github3.py==0.9.3
 google-api-python-client==1.4.2
 gopher==2.1.0
@@ -89,7 +89,7 @@ linecache2==1.0.0
 linking-client==1.0.5
 linking-frugal==11.8.0
 logilab-common==1.5.2
-lxml==2.3.5
+lxml==4.9.1
 mailer==0.3.2
 messaging-sdk==3.3.6
 mock==1.0.1
