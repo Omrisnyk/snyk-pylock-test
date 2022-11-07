@@ -63,7 +63,7 @@ gae-archive==0.12.1
 gae-chaos==0.1.0
 gae-link-libs==1.7.0
 gaepytz==2011h
-gevent==1.1.2
+gevent==1.2a1
 github3.py==0.9.3
 google-api-python-client==1.4.2
 gopher==2.1.0
@@ -153,7 +153,7 @@ unittest2==1.1.0
 universal-analytics-python==0.2.4
 uritemplate==0.6
 uritemplate.py==0.3.0
-urllib3==1.22
+urllib3==1.26.5
 vessel==4.6.4
 w-annotation==3.11.13
 w-binder-manager==1.0.44
