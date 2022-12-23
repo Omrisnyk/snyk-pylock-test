@@ -182,7 +182,7 @@ wf-section16==1.0.23
 wf-viewer-services==7.24.0
 wf-voluptuous==0.8.4-1
 wfml==1.22.0
-wheel==0.23.0
+wheel==0.38.0
 workload==1.1.1
 workspaces-frugal==13.0.7
 wrapt==1.11.2
@@ -190,3 +190,4 @@ wsgiref==0.1.2
 wuri-sdk==2.1.0
 wvalidation==0.1.18
 zerorpc==0.4.4
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
