@@ -1,14 +1,14 @@
 Babel==2.8.0
 BeautifulSoup==3.1.0.1
 CherryPy==3.2.2
-Django==1.2.5
+Django==3.2.23
 Graphy==1.0.0
 Havok==0.0.3
 Jinja2==2.6
 Logbook==0.9.1
 Markdown==2.6.8
 MarkupSafe==0.15
-Pillow==2.9.0
+Pillow==10.0.0
 PyCAPTCHA==0.4.1
 PyHamcrest==1.8.1
 PyJWT==1.1.0
