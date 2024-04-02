@@ -8,7 +8,7 @@ Jinja2==2.6
 Logbook==0.9.1
 Markdown==2.6.8
 MarkupSafe==0.15
-Pillow==2.9.0
+Pillow==10.3.0
 PyCAPTCHA==0.4.1
 PyHamcrest==1.8.1
 PyJWT==1.1.0
@@ -113,7 +113,7 @@ pyasn1-modules==0.0.5
 pycrypto==2.6
 pycryptodomex==3.9.6
 pyga==2.5.0
-pylint==1.1.0
+pylint==2.6.1
 pylzma==0.4.4
 python-dateutil==2.2
 python-gflags==2.0
