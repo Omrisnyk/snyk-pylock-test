@@ -121,7 +121,7 @@ python-pptx==0.4.2
 pytz==2019.3
 pyzmq==13.1.0
 qrcode==4.0.4
-requests==2.22.0
+requests==2.32.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 richapps==0.11.7
