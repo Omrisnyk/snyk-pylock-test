@@ -63,7 +63,7 @@ gae-archive==0.12.1
 gae-chaos==0.1.0
 gae-link-libs==1.7.0
 gaepytz==2011h
-gevent==1.1.2
+gevent==24.10.1
 github3.py==0.9.3
 google-api-python-client==1.4.2
 gopher==2.1.0
