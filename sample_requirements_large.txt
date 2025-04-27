@@ -76,7 +76,7 @@ hash-ring==1.3.1
 haversine==0.1
 home-frugal==5.8.0
 html5lib==0.95
-httplib2==0.8
+httplib2==0.19.0
 idm-frugal==1.15.0
 idna==2.6
 ipaddr==2.1.3
@@ -125,7 +125,7 @@ requests==2.22.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 richapps==0.11.7
-rsa==3.1.4
+rsa==4.7
 server-composition==5.390.0
 sh==1.09
 shutilwhich==1.0.1
